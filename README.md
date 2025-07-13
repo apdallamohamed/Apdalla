@@ -1,47 +1,36 @@
-<!-- GitHub Profile README for Apdalla Mohamed -->
+<h1 align="center">Hi 👋 I'm Apdalla Mohamed 😊</h1>
 
-<h1 align="center">👋 Hi, I'm Apdalla Mohamed</h1>
-
+<h4 align="center">💻 Full Stack Developer | 🤖 AI Engineer @ Vibe Coding | 🛠️ Software Engineer</h4>
 <p align="center">
-  <b>Full Stack Developer | AI Engineer @ Vibe Coding | Software Engineer</b><br/>
-  <i>BSc in Computer Science & BSc in Cybersecurity</i>
+🎓 BSc in Computer Science – Jamhuriya University of Science and Technology <br>
+🎓 BSc in Cybersecurity – Hodmas University College
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-FullStack-informational?style=flat&logo=javascript&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/AI-Engineer-orange?style=flat&logo=python&color=orange"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Specialist-blue?style=flat&logo=security&color=blue"/>
-  <img src="https://img.shields.io/badge/Graduate-JUST%20%26%20Hodmas-success?style=flat&logo=graduation-cap&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=apdallamohamed&label=Profile%20views&color=0e75b6&style=flat" alt="apdallamohamed" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 🎓 BSc in **Computer Science** – *Jamhuriya University of Science and Technology*  
-- 🛡️ BSc in **Cybersecurity** – *Hodmas University College*  
-- 💼 **Full Stack & AI Developer** at **Vibe Coding**  
-- 🌍 I build modern, scalable, and secure applications  
-- ✨ I enjoy blending AI, Web, and Security into smart tech solutions
+Passionate about building powerful, secure, and intelligent digital experiences using Full Stack technologies and AI tools. My mission is to create scalable and ethical software that solves real-world problems.
+
+- 🌍 Based in **Somalia**
+- 🧠 Currently mastering **AI, Cybersecurity**, and modern web stacks
+- 👨‍💻 Focused on **Vibe Coding** AI & Web platform development
+- 🤝 Always open to collaboration and open-source contributions
+- 💬 Contact me at: [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Toolbox
 
 
-💻 Languages: Python, JavaScript, Java, PHP, C++
-🌐 Frontend: React.js, HTML5, CSS3, Bootstrap, Tailwind
-🧠 AI/ML: TensorFlow, PyTorch, scikit-learn, NLP
-🔐 Cybersecurity: Kali Linux, Wireshark, Metasploit
-🛢️ Backend: Node.js, Express.js, Django, MySQL, MongoDB
-⚙️ Tools: Git, GitHub, NetBeans, VS Code, Postman, Docker
-
-
-
-📊 GitHub Stats & Trophies
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=default&bg_color=00000000" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=apdallamohamed&theme=default&hide_border=true&background=FFFFFF00" width="47%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=apdallamohamed&theme=flat&no-frame=true&margin-w=15&column=7" /> </p> <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=apdallamohamed&theme=github-light&bg_color=FFFFFF00" /> </p>
-
-
-💬 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-
+💻 Languages: Python, JavaScript, Java, PHP, C++, Dart
+🌐 Frontend: React.js, HTML, CSS, Tailwind, Bootstrap
+🧠 AI/ML: TensorFlow, PyTorch, Transformers, LangChain
+🔐 Cybersecurity: Metasploit, Wireshark, Kali Linux
+🛢️ Backend: Node.js, Django, Flask, MySQL, MongoDB
+⚙️ Tools: Git, GitHub, NetBeans, VS Code, Docker, Postman
+📱 Mobile: Flutter, React Native
