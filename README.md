@@ -48,9 +48,11 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 
 
 🚀 Featured Projects
+
 🧠 AI-Based Code Generation (Somali) – NLP + Python backend for Somali-language code generation
 
 🌐 E-learning Platform – React-based LMS system for online education
-📱 Mobile Ticket Booking App – Flutter app for real-time bus ticketing
-🔐 Cybersecurity Toolkit – Bash & Python automation scripts for vulnerability scanning
 
+📱 Mobile Ticket Booking App – Flutter app for real-time bus ticketing
+
+🔐 Cybersecurity Toolkit – Bash & Python automation scripts for vulnerability scanning
