@@ -11,31 +11,6 @@
 </p>
 
 ---
-## 👋 Hi, I’m Apdalla Mohamed 😊
-
-🎓 Full Stack Developer | 🤖 AI Engineer @ Vibe Coding | 🛡️ Cybersecurity Specialist  
-
----
-
-I'm a passionate software engineer from **Somalia** with a strong focus on building intelligent, secure, and scalable applications. With a dual degree in **Computer Science** and **Cybersecurity**, I enjoy working at the intersection of web technologies, artificial intelligence, and security.
-
-I'm driven by the mission to make tech accessible, ethical, and smart — whether it's through NLP systems for underrepresented languages like Somali or developing intuitive platforms for real-world users.
-
----
-
-- 🌍 I'm based in Somalia  
-- 📧 You can contact me at [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)  
-- 🧠 I'm exploring **transformer models**, **LLMs**, and **AI code generation**  
-- 🛠️ I specialize in **MERN Stack**, **Django**, **Next.js**, and **Flutter**  
-- 🧪 I enjoy researching Somali NLP and deploying secure backend systems  
-- 💬 I’m open to collaborations, open-source contributions, and developer communities  
-- ⚡ Fun fact: When I’m not coding, I’m probably designing something beautiful, mentoring juniors, or dreaming in Python 😉
-
----
-
-> _"Creativity is intelligence having fun." – Albert Einstein_
-
-
 
 ## 🌟 About Me
 
@@ -43,13 +18,9 @@ I'm driven by the mission to make tech accessible, ethical, and smart — whethe
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI+Engineer+%7C+Cybersecurity+Enthusiast;Lifelong+Learner+%7C+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
 </div>
 
----
-
-👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative **Full Stack Developer**, **AI Engineer**, and **Cybersecurity Specialist** based in **🇸🇴 Somalia**.
+👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative **Full Stack Developer**, **MERN Stack-Developer **, and **AI** based in **🇸🇴 Somalia**.
 
 I'm on a mission to build smart, scalable, and secure digital experiences — blending clean code, intelligent systems, and ethical tech to solve real-world problems.
-
----
 
 ### 🎓 Education
 
@@ -59,24 +30,18 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 - 🎓 **BSc in Cybersecurity**  
   *Hodmas University College*
 
----
-
 ### 👨‍💻 What I Work On
 
-- 🚀 Modern Full Stack Development (React, Next.js, Node.js, Django)
-- 🤖 AI Projects (Transformers, NLP, Python ML frameworks)
+- 🚀 Modern Full Stack Development (React, Next.js, Node.js, dart)
+- 🤖 AI Projects (Numpy, NLP, Python ML frameworks)
 - 🔐 Cybersecurity (Ethical hacking, Pen-testing, Automation)
 - 📱 Cross-Platform Mobile Development (Flutter, React Native)
 - ⚙️ Open Source Tools & SaaS Platforms
-
----
 
 ### 💼 Current Focus
 
 🔬 **AI & Web Developer at Vibe Coding**  
 Helping build innovative platforms using full-stack and AI technologies, and researching Somali-language NLP systems.
-
----
 
 ### 💡 Tech Interests
 
@@ -84,19 +49,6 @@ Helping build innovative platforms using full-stack and AI technologies, and res
 - 🕸️ Web App Architecture  
 - 🔍 Cybersecurity Automation  
 - ✨ UI/UX & Dev Experience  
-
----
-
-### 🤝 Let’s Collaborate
-
-- 💬 Always open to **collaborations**, **open-source contributions**, or **mentorship**
-- 📫 **Email me** at [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)
-- 🔗 [ORCID Profile](https://orcid.org/0009-0009-8009-9138)
-- 🌍 Personal Website – *coming soon...*
-
----
-
-> _"Creativity is intelligence having fun."_ – **Albert Einstein**
 
 
 ## 🧰 Tech Toolbox
@@ -185,8 +137,7 @@ Helping build innovative platforms using full-stack and AI technologies, and res
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
 
 
-
-
+### 🤝 Let’s Collaborate
 <p> 📬 <strong>Email:</strong> <a href="mailto:apdallamohamed@gmail.com">apdallamohamed@gmail.com</a><br> 🔗 <strong>ORCID:</strong> <a href="https://orcid.org/0009-0009-8009-9138" target="_blank">orcid.org/0009-0009-8009-9138</a><br> 🌍 <strong>Portfolio:</strong> <i>Coming soon...</i> </p>
 
 
