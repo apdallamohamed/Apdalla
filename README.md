@@ -100,24 +100,9 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
 
 
-🚀 Featured Projects
-
-🧠 AI-Based Code Generation (Somali) – NLP + Python backend for Somali-language code generation
-
-🌐 E-learning Platform – React-based LMS system for online education
-
-📱 Mobile Ticket Booking App – Flutter app for real-time bus ticketing
-
-🔐 Cybersecurity Toolkit – Bash & Python automation scripts for vulnerability scanning
 
 
-
-🤝 Let’s Connect
-📨 Email Me
-
-🔗 ORCID Profile
-
-🌍 Personal website coming soon…
+<p> 📬 <strong>Email:</strong> <a href="mailto:apdallamohamed@gmail.com">apdallamohamed@gmail.com</a><br> 🔗 <strong>ORCID:</strong> <a href="https://orcid.org/0009-0009-8009-9138" target="_blank">orcid.org/0009-0009-8009-9138</a><br> 🌍 <strong>Portfolio:</strong> <i>Coming soon...</i> </p>
 
 
 
