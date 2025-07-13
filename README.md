@@ -43,5 +43,6 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 📈 GitHub Stats & Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=default&bg_color=00000000" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdallamohamed&theme=default&background=FFFFFF00" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apdallamohamed&theme=react-light" /> </p>
 
-
+🔝 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
 
