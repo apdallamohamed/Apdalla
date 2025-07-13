@@ -11,16 +11,67 @@
 </p>
 
 ---
-
 ## 🌟 About Me
 
-Passionate about building powerful, secure, and intelligent digital experiences using Full Stack technologies and AI tools. My mission is to create scalable and ethical software that solves real-world problems.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI+Engineer+%7C+Cybersecurity+Enthusiast;Lifelong+Learner+%7C+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
+</div>
 
-- 🌍 Based in **Somalia**
-- 🧠 Currently mastering **AI, Cybersecurity**, and modern web stacks
-- 👨‍💻 Focused on **Vibe Coding** AI & Web platform development
-- 🤝 Always open to collaboration and open-source contributions
-- 💬 Contact me at: [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)
+---
+
+👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative **Full Stack Developer**, **AI Engineer**, and **Cybersecurity Specialist** based in **🇸🇴 Somalia**.
+
+I'm on a mission to build smart, scalable, and secure digital experiences — blending clean code, intelligent systems, and ethical tech to solve real-world problems.
+
+---
+
+### 🎓 Education
+
+- 🎓 **BSc in Computer Science**  
+  *Jamhuriya University of Science and Technology*
+
+- 🎓 **BSc in Cybersecurity**  
+  *Hodmas University College*
+
+---
+
+### 👨‍💻 What I Work On
+
+- 🚀 Modern Full Stack Development (React, Next.js, Node.js, Django)
+- 🤖 AI Projects (Transformers, NLP, Python ML frameworks)
+- 🔐 Cybersecurity (Ethical hacking, Pen-testing, Automation)
+- 📱 Cross-Platform Mobile Development (Flutter, React Native)
+- ⚙️ Open Source Tools & SaaS Platforms
+
+---
+
+### 💼 Current Focus
+
+🔬 **AI & Web Developer at Vibe Coding**  
+Helping build innovative platforms using full-stack and AI technologies, and researching Somali-language NLP systems.
+
+---
+
+### 💡 Tech Interests
+
+- 🧠 Deep Learning & LLMs  
+- 🕸️ Web App Architecture  
+- 🔍 Cybersecurity Automation  
+- ✨ UI/UX & Dev Experience  
+
+---
+
+### 🤝 Let’s Collaborate
+
+- 💬 Always open to **collaborations**, **open-source contributions**, or **mentorship**
+- 📫 **Email me** at [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)
+- 🔗 [ORCID Profile](https://orcid.org/0009-0009-8009-9138)
+- 🌍 Personal Website – *coming soon...*
+
+---
+
+> _"Creativity is intelligence having fun."_ – **Albert Einstein**
+
 
 ## 🧰 Tech Toolbox
 
