@@ -11,6 +11,32 @@
 </p>
 
 ---
+## 👋 Hi, I’m Apdalla Mohamed 😊
+
+🎓 Full Stack Developer | 🤖 AI Engineer @ Vibe Coding | 🛡️ Cybersecurity Specialist  
+
+---
+
+I'm a passionate software engineer from **Somalia** with a strong focus on building intelligent, secure, and scalable applications. With a dual degree in **Computer Science** and **Cybersecurity**, I enjoy working at the intersection of web technologies, artificial intelligence, and security.
+
+I'm driven by the mission to make tech accessible, ethical, and smart — whether it's through NLP systems for underrepresented languages like Somali or developing intuitive platforms for real-world users.
+
+---
+
+- 🌍 I'm based in Somalia  
+- 📧 You can contact me at [apdallamohamed@gmail.com](mailto:apdallamohamed@gmail.com)  
+- 🧠 I'm exploring **transformer models**, **LLMs**, and **AI code generation**  
+- 🛠️ I specialize in **MERN Stack**, **Django**, **Next.js**, and **Flutter**  
+- 🧪 I enjoy researching Somali NLP and deploying secure backend systems  
+- 💬 I’m open to collaborations, open-source contributions, and developer communities  
+- ⚡ Fun fact: When I’m not coding, I’m probably designing something beautiful, mentoring juniors, or dreaming in Python 😉
+
+---
+
+> _"Creativity is intelligence having fun." – Albert Einstein_
+
+
+
 ## 🌟 About Me
 
 <div align="center">
