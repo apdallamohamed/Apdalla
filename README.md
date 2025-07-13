@@ -67,3 +67,6 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 🌍 Personal website coming soon…
 
 
+
+"Creativity is intelligence having fun." – Albert Einstein
+
