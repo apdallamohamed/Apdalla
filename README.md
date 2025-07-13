@@ -46,3 +46,11 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 🔝 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
 
+
+🚀 Featured Projects
+🧠 AI-Based Code Generation (Somali) – NLP + Python backend for Somali-language code generation
+
+🌐 E-learning Platform – React-based LMS system for online education
+📱 Mobile Ticket Booking App – Flutter app for real-time bus ticketing
+🔐 Cybersecurity Toolkit – Bash & Python automation scripts for vulnerability scanning
+
