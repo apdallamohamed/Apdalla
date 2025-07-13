@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Apdalla Mohamed 😊</h1>
 
-<h4 align="center">💻 Full Stack Developer | 🤖 AI Engineer @ Vibe Coding | 🛠️ Software Engineer</h4>
+<h4 align="center">💻 Full Stack Developer | 🤖 AI  @ Vibe Coding | 🛠️ Software Engineer</h4>
 <p align="center">
 🎓 BSc in Computer Science – Jamhuriya University of Science and Technology <br>
 🎓 BSc in Cybersecurity – Hodmas University College
@@ -15,7 +15,7 @@
 ## 🌟 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI+Engineer+%7C+Cybersecurity+Enthusiast;Lifelong+Learner+%7C+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN Stack-Developer+%7C+AI  @ Vibe Coding;Lifelong+Learner+%7C+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
 </div>
 
 👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative **Full Stack Developer**, **MERN Stack-Developer **, and **AI** based in **🇸🇴 Somalia**.
