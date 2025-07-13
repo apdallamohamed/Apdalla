@@ -68,7 +68,8 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 
 
 
-"Creativity is intelligence having fun." – Albert Einstein
+"Creativity is intelligence having fun." – Albert Einstein.
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -76,46 +77,39 @@ Passionate about building powerful, secure, and intelligent digital experiences 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Apdalla Mohamed | GitHub Profile</title>
-  <style>
+<style>
     :root {
-      --bg-light: #ffffff;
-      --bg-dark: #0d1117;
-      --text-light: #0d1117;
-      --text-dark: #ffffff;
-    }
-
-  body {
+      bg-light: #ffffff;
+      bg-dark: #0d1117;
+      text-light: #0d1117;
+      text-dark: #ffffff;
+  }
+body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
       background-color: var(--bg-light);
       color: var(--text-light);
       transition: background 0.3s, color 0.3s;
-    }
-
-  body.dark-theme {
+    } body.dark-theme {
       background-color: var(--bg-dark);
       color: var(--text-dark);
     }
-
-  header {
+header {
       text-align: center;
       padding: 2rem;
     }
-
-  .avatar {
+.avatar {
       width: 150px;
       height: 150px;
       border-radius: 50%;
       animation: rotate 10s linear infinite;
     }
-
-  @keyframes rotate {
+@keyframes rotate {
       0% { transform: rotateY(0deg); }
       100% { transform: rotateY(360deg); }
     }
-
-  .toggle-button {
+.toggle-button {
       position: absolute;
       top: 1rem;
       right: 1rem;
@@ -125,26 +119,20 @@ Passionate about building powerful, secure, and intelligent digital experiences 
       border: none;
       border-radius: 5px;
       cursor: pointer;
-    }
-
-  section {
+    } section {
       max-width: 800px;
       margin: auto;
       padding: 2rem;
     }
-
-  .timeline {
+.timeline {
       list-style: none;
       padding-left: 0;
     }
-
-  .timeline li {
+.timeline li {
       margin: 1rem 0;
       border-left: 3px solid #007acc;
       padding-left: 1rem;
-    }
-
-   form {
+    }   form {
       display: flex;
       flex-direction: column;
       gap: 1rem;
