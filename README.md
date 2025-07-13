@@ -92,9 +92,17 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 
 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=apdallamohamed&theme=algolia&no-frame=true&no-bg=true&margin-w=10" /> </p>
+## 📈 GitHub Stats & Activity
 
-📈 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=default&bg_color=00000000" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdallamohamed&theme=default&background=FFFFFF00" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apdallamohamed&theme=react-light" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apdallamohamed&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apdallamohamed&theme=tokyo-night" />
+</p>
+
 
 🔝 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
