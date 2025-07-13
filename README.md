@@ -22,14 +22,6 @@
 
 I'm on a mission to build smart, scalable, and secure digital experiences — blending clean code, intelligent systems, and ethical tech to solve real-world problems.
 
-### 🎓 Education
-
-- 🎓 **BSc in Computer Science**  
-  *Jamhuriya University of Science and Technology*
-
-- 🎓 **BSc in Cybersecurity**  
-  *Hodmas University College*
-
 ### 👨‍💻 What I Work On
 
 - 🚀 Modern Full Stack Development (React, Next.js, Node.js, dart)
