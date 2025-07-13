@@ -56,3 +56,14 @@ Passionate about building powerful, secure, and intelligent digital experiences 
 📱 Mobile Ticket Booking App – Flutter app for real-time bus ticketing
 
 🔐 Cybersecurity Toolkit – Bash & Python automation scripts for vulnerability scanning
+
+
+
+🤝 Let’s Connect
+📨 Email Me
+
+🔗 ORCID Profile
+
+🌍 Personal website coming soon…
+
+
