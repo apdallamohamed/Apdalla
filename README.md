@@ -118,8 +118,7 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 
 
 
-### 🤝 Let’s Collaborate
-<p> 📬 <strong>Email:</strong> <a href="mailto:apdallamohamed@gmail.com">apdallamohamed@gmail.com</a><br> 🔗 <strong>ORCID:</strong> <a href="https://orcid.org/0009-0009-8009-9138" target="_blank">orcid.org/0009-0009-8009-9138</a><br> 🌍 <strong>Portfolio:</strong> <i>Coming soon...</i> </p>
+
 
 
 
