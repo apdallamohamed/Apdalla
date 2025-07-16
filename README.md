@@ -111,6 +111,17 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apdallamohamed&theme=tokyo-night" />
 </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=apdallamohamed&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 
 🔝 Most Used Languages
@@ -125,28 +136,5 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 "Creativity is intelligence having fun." – Albert Einstein.
 
 
-## 📊 GitHub Profile Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=apdallamohamed&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apdallamohamed&theme=tokyo-night" alt="Activity Graph" />
-
----
-
-## 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=tokyonight" />
-</p>
 
