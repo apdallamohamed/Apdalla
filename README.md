@@ -20,13 +20,6 @@
 
 I'm on a mission to build smart, scalable, and secure digital experiences — blending clean code, intelligent systems, and ethical tech to solve real-world problems.
 
-### 👨‍💻 What I Work On
-
-- 🚀 Modern Full Stack Development (React, Next.js, Node.js, dart)
-- 🤖 AI Projects (Numpy, NLP, Python ML frameworks)
-- 🔐 Cybersecurity (Ethical hacking, Pen-testing, Automation)
-- 📱 Cross-Platform Mobile Development (Flutter, React Native)
-- ⚙️ Open Source Tools & SaaS Platforms
 
 
 ## 🧰 Tech Toolbox
