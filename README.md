@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer+%7C+AI+%40+Vibe+Coding;Lifelong+Learner+%7C+Problem+Solver+%7C+Open+Source+Lover" alt="Typing SVG" />
 </div>
 
-👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative **Full Stack Developer**, **MERN Stack-Developer **, and **AI** based in **🇸🇴 Somalia**.
+👋 Hey there! I'm **Apdalla Mohamed**, a passionate and creative Full Stack Developer, MERN Stack-Developer , and AI based in **🇸🇴 Somalia**.
 
 I'm on a mission to build smart, scalable, and secure digital experiences — blending clean code, intelligent systems, and ethical tech to solve real-world problems.
 
