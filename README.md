@@ -122,8 +122,6 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 
 
 
-"Creativity is intelligence having fun." – Albert Einstein.
-
 
 
 
