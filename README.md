@@ -112,12 +112,12 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=apdallamohamed&theme=tokyo-night" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apdallamohamed&theme=tokyo-night" alt="Activity Graph" />
-
-
 
 🔝 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=default&bg_color=FFFFFF00" /> </p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apdallamohamed&theme=tokyo-night" alt="Activity Graph" />
+
 
 
 ### 🤝 Let’s Collaborate
