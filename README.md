@@ -30,18 +30,6 @@ I'm on a mission to build smart, scalable, and secure digital experiences — bl
 - 📱 Cross-Platform Mobile Development (Flutter, React Native)
 - ⚙️ Open Source Tools & SaaS Platforms
 
-### 💼 Current Focus
-
-🔬 **AI & Web Developer at Vibe Coding**  
-Helping build innovative platforms using full-stack and AI technologies, and researching Somali-language NLP systems.
-
-### 💡 Tech Interests
-
-- 🧠 Deep Learning & LLMs  
-- 🕸️ Web App Architecture  
-- 🔍 Cybersecurity Automation  
-- ✨ UI/UX & Dev Experience  
-
 
 ## 🧰 Tech Toolbox
 
@@ -135,3 +123,30 @@ Helping build innovative platforms using full-stack and AI technologies, and res
 
 
 "Creativity is intelligence having fun." – Albert Einstein.
+
+
+## 📊 GitHub Profile Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=apdallamohamed&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=apdallamohamed&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apdallamohamed&theme=tokyo-night" alt="Activity Graph" />
+
+---
+
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apdallamohamed&layout=compact&theme=tokyonight" />
+</p>
+
